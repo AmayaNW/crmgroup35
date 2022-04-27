@@ -1,0 +1,16 @@
+body {
+    background-color: #131929;
+}
+
+h1 {
+    font-family: sans-serif;
+    text-align: center;
+    color: #c2ceeb;
+}
+
+li {
+    font-family: sans-serif;
+    font-size: 15px;
+    text-align: left;
+    color: #c2ceeb;
+}
