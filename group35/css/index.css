@@ -1,0 +1,103 @@
+body {
+    background-color:#131929;
+  }
+
+h1 {
+    font-family: sans-serif;
+    font-size: 60px;
+    text-align: center;
+    color: #c2ceeb;
+}
+
+p {
+    font-family: sans-serif;
+    font-size: 20px;
+    text-align: center;
+    color: black;
+}
+
+h2 {
+    font-family: sans-serif;
+    font-size: 40px;
+    text-align: center;
+    color: black;
+}
+
+.opt {
+    background-color: #d7e0eb;
+}
+
+  input[type=text], select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+
+  input[type=password], select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+
+  input[type=submit] {
+    width: 100%;
+    background-color: black;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+
+
+  input[type=submit]:hover {
+    background-color: #edd488;
+  }
+
+  .bg, .opt{
+    border-radius: 5px;
+    background-color: white;
+    padding: 20px;
+    margin-top: 40px;
+    margin-left: 300px;
+    margin-right: 300px;
+    margin-bottom: 40px;
+  }
+
+  label {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  #moon {
+  margin-top: 60px;
+  margin-bottom: 100px;
+  }
+  #features {
+  float: left;
+  width: 30%;
+  padding: 12px 20px 12px 40px;
+  }
+
+
+  #help {
+  float: right;
+  width: 30%;
+  padding: 12px 20px 12px 40px;
+  }
+  .sel {
+      margin-top: 30px;
+  }
+
+  .foot {
+  padding-top: 100px;
+  margin-top: 50px;
+  }
